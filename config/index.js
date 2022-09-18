@@ -60,7 +60,7 @@ export const config = {
   USERS: [
     {
       // 想要发送的人的名字
-      name: "老婆0",
+      name: "老婆",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "oNtlj6CREnfS-bip0ZWGlEd_x6R4",
       // 你想对他发送的模板消息的模板ID
@@ -96,10 +96,10 @@ export const config = {
     },
     {
       name: "老婆1",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
+      id: "wx59afd75d64c98216",
+      useTemplateId: "a4eafeacb0272e03cbbeae723fd8808d",
+      province: "贵州",
+      city: "贵阳",
       horoscopeDate: '',
       horoscopeDateType: '',
       openUrl: "https://wangxinleo.cn",
